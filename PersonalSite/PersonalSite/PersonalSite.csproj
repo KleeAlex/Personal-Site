@@ -67,8 +67,83 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-    <Content Include="Index.html" />
     <Content Include="Web.config" />
+    <Content Include="assets\css\bootstrap.min.css" />
+    <Content Include="assets\css\lightbox.css" />
+    <Content Include="assets\css\menu.css" />
+    <Content Include="assets\css\owl.carousel.css" />
+    <Content Include="assets\css\responsive.css" />
+    <Content Include="assets\css\style.css" />
+    <Content Include="assets\css\themify-icons.css" />
+    <Content Include="assets\css\video.min.css" />
+    <Content Include="assets\fonts\themify.svg" />
+    <Content Include="assets\img\about\about-1.jpg" />
+    <Content Include="assets\img\banner\banner-1.jpg" />
+    <Content Include="assets\img\banner\news-banner.jpg" />
+    <Content Include="assets\img\blog\blog-1.jpg" />
+    <Content Include="assets\img\blog\blog-2.jpg" />
+    <Content Include="assets\img\blog\blog-3.jpg" />
+    <Content Include="assets\img\blog\blog-4.jpg" />
+    <Content Include="assets\img\blog\blog-5.jpg" />
+    <Content Include="assets\img\blog\blog-6.jpg" />
+    <Content Include="assets\img\blog\blog-7.jpg" />
+    <Content Include="assets\img\blog\blog-item-1.jpg" />
+    <Content Include="assets\img\blog\blog-item-2.jpg" />
+    <Content Include="assets\img\blog\blog-item-3.jpg" />
+    <Content Include="assets\img\blog\blog-item-4.jpg" />
+    <Content Include="assets\img\blog\blog-s.jpg" />
+    <Content Include="assets\img\blog\img1.png" />
+    <Content Include="assets\img\blog\img2.png" />
+    <Content Include="assets\img\blog\img4.png" />
+    <Content Include="assets\img\close.png" />
+    <Content Include="assets\img\loading.gif" />
+    <Content Include="assets\img\logo\logo.png" />
+    <Content Include="assets\img\next.png" />
+    <Content Include="assets\img\portfolio\port-1.jpg" />
+    <Content Include="assets\img\portfolio\port-10.gif" />
+    <Content Include="assets\img\portfolio\port-10.jpg" />
+    <Content Include="assets\img\portfolio\port-11.gif" />
+    <Content Include="assets\img\portfolio\port-11.jpg" />
+    <Content Include="assets\img\portfolio\port-12.jpg" />
+    <Content Include="assets\img\portfolio\port-13.jpg" />
+    <Content Include="assets\img\portfolio\port-2.jpg" />
+    <Content Include="assets\img\portfolio\port-3.jpg" />
+    <Content Include="assets\img\portfolio\port-4.jpg" />
+    <Content Include="assets\img\portfolio\port-5.jpg" />
+    <Content Include="assets\img\portfolio\port-6.jpg" />
+    <Content Include="assets\img\portfolio\port-7.jpg" />
+    <Content Include="assets\img\portfolio\port-8.jpg" />
+    <Content Include="assets\img\portfolio\port-9.jpg" />
+    <Content Include="assets\img\portfolio\port-s-1.jpg" />
+    <Content Include="assets\img\portfolio\port-s-2.jpg" />
+    <Content Include="assets\img\portfolio\port-s.jpg" />
+    <Content Include="assets\img\preloader.gif" />
+    <Content Include="assets\img\prev.png" />
+    <Content Include="assets\img\recent-blog\recent-1.jpg" />
+    <Content Include="assets\img\recent-blog\recent-2.jpg" />
+    <Content Include="assets\img\recent-blog\recent-3.jpg" />
+    <Content Include="assets\img\recent-blog\recent-4.jpg" />
+    <Content Include="assets\js\bootstrap.min.js" />
+    <Content Include="assets\js\circle-effect.js" />
+    <Content Include="assets\js\gmap3.min.js" />
+    <Content Include="assets\js\imagesloaded.pkgd.min.js" />
+    <Content Include="assets\js\jquery-2.1.4.min.js" />
+    <Content Include="assets\js\jquery.counterup.min.js" />
+    <Content Include="assets\js\jquery.isotope.min.js" />
+    <Content Include="assets\js\jquery.magnific-popup.min.js" />
+    <Content Include="assets\js\lightbox.js" />
+    <Content Include="assets\js\masonry-docs.min.js" />
+    <Content Include="assets\js\masonry.pkgd.min.js" />
+    <Content Include="assets\js\owl.carousel.min.js" />
+    <Content Include="assets\js\script.js" />
+    <Content Include="assets\js\waypoints.min.js" />
+    <Content Include="assets\js\wow.min.js" />
+    <Content Include="blog-single.html" />
+    <Content Include="blog.html" />
+    <Content Include="contact.html" />
+    <Content Include="index.html" />
+    <Content Include="loading.gif" />
+    <Content Include="prev.png" />
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Properties\AssemblyInfo.cs" />
@@ -81,12 +156,11 @@
     <None Include="Web.Release.config">
       <DependentUpon>Web.config</DependentUpon>
     </None>
+    <Content Include="assets\fonts\themify.eot" />
+    <Content Include="assets\fonts\themify.ttf" />
+    <Content Include="assets\fonts\themify.woff" />
   </ItemGroup>
-  <ItemGroup>
-    <Folder Include="Images\" />
-    <Folder Include="Scripts\" />
-    <Folder Include="StyleSheets\" />
-  </ItemGroup>
+  <ItemGroup />
   <PropertyGroup>
     <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>
     <VSToolsPath Condition="'$(VSToolsPath)' == ''">$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)</VSToolsPath>

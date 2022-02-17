@@ -67,6 +67,8 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Content Include="assets\img\projects\fed1.jpg" />
+    <Content Include="projects.html" />
     <Content Include="Web.config" />
     <Content Include="assets\css\bootstrap.min.css" />
     <Content Include="assets\css\lightbox.css" />

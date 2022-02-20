@@ -228,7 +228,7 @@ Margin setting
 Start of Page head section [*3]
 -------------------------------------------------------------------------*/
 .page-head-section {
-	background-image: url(../img/banner/banner-1.jpg);
+	background-image: url(../img/header.jpg);
 	padding-bottom: 420px;
 	background-position: 50% 0%;
 	position: relative;
@@ -239,7 +239,7 @@ Start of Page head section [*3]
 }
 .page-head-overlay,
 .page-head-overlay-2 {
-	background-color: rgb(249, 249, 249);
+	background-color: rgba(149, 149, 149, .5);
 	opacity: 0.90;
 	position: absolute;
 	top: 0;

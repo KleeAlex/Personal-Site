@@ -239,7 +239,7 @@ Start of Page head section [*3]
 }
 .page-head-overlay,
 .page-head-overlay-2 {
-	background-color: rgba(149, 149, 149, .5);
+	/*background-color: rgba(149, 149, 149, .5);*/
 	opacity: 0.90;
 	position: absolute;
 	top: 0;
@@ -263,7 +263,7 @@ Start of Page head section [*3]
 	width: 100%;
 }
 .page-head-title h1 {
-	color: #090909;
+	color: white;
 	padding-bottom: 15px;
 }
 .social-title {

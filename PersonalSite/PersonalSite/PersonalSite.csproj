@@ -69,6 +69,21 @@
   <ItemGroup>
     <Content Include="assets\img\header.jpg" />
     <Content Include="assets\img\projects\fed1.jpg" />
+    <Content Include="assets\teamImg\Austin.jpg" />
+    <Content Include="assets\teamImg\Conor.jpg" />
+    <Content Include="assets\teamImg\Enrique.jpg" />
+    <Content Include="assets\teamImg\Ian.jpg" />
+    <Content Include="assets\teamImg\Jazmine.jpg" />
+    <Content Include="assets\teamImg\Justin.jpg" />
+    <Content Include="assets\teamImg\Kayla.jpg" />
+    <Content Include="assets\teamImg\Matt.jpg" />
+    <Content Include="assets\teamImg\Michael.jpg" />
+    <Content Include="assets\teamImg\Payton.jpg" />
+    <Content Include="assets\teamImg\Romeo.jpg" />
+    <Content Include="assets\teamImg\Sean.jpg" />
+    <Content Include="assets\teamImg\Zak.jpg" />
+    <Content Include="teamPage2.html" />
+    <Content Include="teamPage1.html" />
     <Content Include="projects.html" />
     <Content Include="Web.config" />
     <Content Include="assets\css\bootstrap.min.css" />
